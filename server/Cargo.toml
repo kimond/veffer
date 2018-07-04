@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Kim Desrosiers <kimdesro@gmail.com>"]
 
 [dependencies]
+redis = "0.8.0"
+tokio = "0.1.7"

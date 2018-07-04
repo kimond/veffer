@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Kim Desrosiers <kimdesro@gmail.com>"]
 
 [dependencies]
+server = {path = "../server"}
